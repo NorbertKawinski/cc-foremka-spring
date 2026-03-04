@@ -67,8 +67,8 @@ publishing {
                 url = "https://github.com/NorbertKawinski/cc-foremka-spring"
                 licenses {
                     license {
-                        name = "CodeChievement Public License 1.0"
-                        url = "https://codechievement.com/license/public/1.0"
+                        name = "Apache License 2.0"
+                        url = "http://www.apache.org/licenses/LICENSE-2.0"
                     }
                 }
                 organization {
